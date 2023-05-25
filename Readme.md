@@ -10,3 +10,4 @@
 16/05/2023 | Supervised Learning with SKlearn; Clustering | [notebook1](notebooks/07supervised_learning.ipynb);[notebook2](notebooks/08clustering.ipynb)|
 18/05/2023 | Bayesian Learning | [notes](slides/06_bayesian_learning.pdf)|
 19/05/2023 | Gaussian Mixture Models; Bayesian Networks with [OpenMarkov](http://www.openmarkov.org/)| [notebook](notebooks/09latent_variables.ipynb); [tutorial](http://www.openmarkov.org/docs/tutorial/tutorial-OpenMarkov-0.4.0.pdf)|
+25/05/2023 | Neural Networks; Automatic Differentiation; RBF Neural Networks | [slides](./slides/07_Neural_Networks.pdf); [notebook1](./notebooks/10autograd.ipynb); [notebook2](./notebooks/11neural_networks.ipynb); [notebook3](./notebooks/12rbf_neural_networks.ipynb)|
